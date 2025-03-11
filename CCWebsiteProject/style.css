@@ -79,7 +79,7 @@ a {
 }
 
 a:visited {
-  color: #944;
+  color: #944; /*changes color of visited links*/
 }
 
 a:hover, a:focus {
@@ -87,7 +87,7 @@ a:hover, a:focus {
 }
 
 a:active {
-  color: #600;
+  color: #600; /*changes color of link while being clicked on*/
   font-weight: bold;
 }
 
